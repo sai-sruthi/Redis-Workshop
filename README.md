@@ -28,7 +28,7 @@ Bulkhead pattern is where we want to effectively isolate components of infrastru
 
 1. Task 1
 
-![Task1](https://media.github.ncsu.edu/user/16063/files/ae67d580-9c96-11eb-951f-e0d84592c097)
+    ![image1](https://media.github.ncsu.edu/user/16063/files/ae67d580-9c96-11eb-951f-e0d84592c097)
 
 2. Task 2
 
