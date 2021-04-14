@@ -8,11 +8,12 @@
 
 1. Describe three desirable properties for infrastructure.
 
-The three desirable properties for infrastructure are Availibility, that is, it is available with no or limited interruption to provided services. Scalability, so it can increase specific units in response to demand, and efficiency, to avoid redudant work, shift responsibility to low-cost components. 
+The three desirable properties for infrastructure are Availibility, that is, it is available with no or limited interruption to provided services. Scalability, so it can increase specific units in response to demand, having a scalable infrastructure will allow us to add workload for more computation and traffic without hampering the existing infrastructure. and finally Efficiency, to avoid redudant work, shift responsibility to low-cost components. 
 
 2. Describe some benefits and issues related to using Load Balancers.
 
-Th benefits related to using Load Balancers it ensures with availability and scalibility of infrastructure, like it avoids sending requests to any unhealthy server etc, issues can be when load balancer goes down or managing security and inefficiencies. 
+Th benefits related to using Load Balancers it ensures with availability and scalibility of infrastructure, like it avoids sending requests to any unhealthy server. Also using load balancers helps in planned maintainence. We can keep a few servers online in odd hours and proceed with the maintainence tasks instead of taking entire network. 
+Issues can be when load balancer goes down or managing security and inefficiencies. Losing user data on server due to failure and to shift the data of the user to another server etc. 
 
 3. What are some reasons for keeping servers in seperate availability zones?
 
@@ -60,7 +61,7 @@ Bulkhead pattern is where we want to effectively isolate components of infrastru
 
 ### Screencast
 
-[Screentcast](https://drive.google.com/file/d/1w3tcoHC49l_h0i08EdDaT02vCqexBhaV/view?usp=sharing)
+[Screencast](https://drive.google.com/file/d/1w3tcoHC49l_h0i08EdDaT02vCqexBhaV/view?usp=sharing)
 
 ### Code Link
 
