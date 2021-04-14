@@ -41,7 +41,7 @@ Bulkhead pattern is where we want to effectively isolate components of infrastru
 
 3. Task 3
 
-    The below images shows the implementation of task 3
+    The below images shows the implementation of task 3 - The code has been implemented in the index.js file in routes folder of the meow.io application. 
 
     ![image3a](https://media.github.ncsu.edu/user/16063/files/ae68d500-9c98-11eb-88a6-97b61045f36e)
 
@@ -49,13 +49,13 @@ Bulkhead pattern is where we want to effectively isolate components of infrastru
 
 4. Task 4
 
-    The below image shows the implementation of task 4
+    The below image shows the implementation of task 4 - The code has been implemented in the upload.js file in routes folder of the meow.io application. 
 
     ![image4](https://media.github.ncsu.edu/user/16063/files/ae67d580-9c96-11eb-8bc0-8a4392dd2fee)
 
 5. Task 5
 
-    The below image shows the implementation of task 5
+    The below image shows the implementation of task 5 - The code has been implemented in the app.js file in meow.io application. 
 
     ![image5](https://media.github.ncsu.edu/user/16063/files/af016b80-9c98-11eb-9c11-347f0993b82b)
 
