@@ -1,7 +1,6 @@
-# HW5-DevOps
+# Redis Workshop
 
-**Unity Id:** stallur2
-
+Solution for https://github.com/CSC-DevOps/Course/blob/master/HW/HW5-infra.md
 **Name:** Sruthi Talluri 
 
 ### Conceptual Questions (20)
